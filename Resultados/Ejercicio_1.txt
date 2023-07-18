@@ -1,0 +1,21 @@
+u137586@login-2:~$ ls
+ESA  INICTEL  Learning  test  tmp
+u137586@login-2:~$ mkdir cpar_examen
+u137586@login-2:~$ cd cpar_examen/
+u137586@login-2:~/cpar_examen$ git clone https://github.com/utcs-scea/altis.git
+Cloning into 'altis'...
+remote: Enumerating objects: 6814, done.
+remote: Counting objects: 100% (1256/1256), done.
+remote: Compressing objects: 100% (537/537), done.
+remote: Total 6814 (delta 711), reused 1146 (delta 666), pack-reused 5558
+Receiving objects: 100% (6814/6814), 78.20 MiB | 21.98 MiB/s, done.
+Resolving deltas: 100% (2664/2664), done.
+Checking out files: 100% (338/338), done.
+u137586@login-2:~/cpar_examen$ ls
+altis
+u137586@login-2:~/cpar_examen$ cd altis/
+u137586@login-2:~/cpar_examen/altis$ ls
+CMakeLists.txt  config  data  driver.py  LICENSE  README.md  setup.sh  src  tools
+u137586@login-2:~/cpar_examen/altis$ git branch
+* master
+u137586@login-2:~/cpar_examen/altis$
