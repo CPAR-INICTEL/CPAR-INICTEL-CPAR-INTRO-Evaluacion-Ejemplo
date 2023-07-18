@@ -1,4 +1,4 @@
-# CPAR (Curso 1) - Ejemplo de Evaluacion Practica
+# CPAR (Curso 1) - Ejemplo de Evaluación Práctica
 
 Esta evaluación examina algunas habilidades en el manejo básico de la plataforma DevCloud.
 
