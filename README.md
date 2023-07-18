@@ -1,5 +1,3 @@
-# CPAR-INICTEL-CPAR-INTRO-Evaluacion-Ejemplo
-
 # CPAR (Curso 1) - Ejemplo de Evaluacion Practica
 
 Esta evaluación examina algunas habilidades en el manejo básico de la plataforma DevCloud.
